@@ -1,0 +1,5 @@
+{
+  "name": "Copy of FloraDoc AI",
+  "description": "An AI-powered plant pathologist that analyzes images of leaves and plants to detect diseases and recommend treatments using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
